@@ -2,6 +2,10 @@
   <h3>Desarrollando</h3>
   <p > Primer version 📘 </p>
   Modelado con <strong>HTML, CSS y <em>Javascript</em></strong>
+<br/>
+<br/>
+<br/>
+<br/>
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
